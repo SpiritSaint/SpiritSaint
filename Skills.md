@@ -7,7 +7,7 @@
 - *MySQL, Microsoft SQL Server and SQLite* as **DBMS**.
 - *Redis and Memcached* as **IMDS** *(In-memory document storage)*.
 - *Debian, Ubuntu and Alpine* as **OS**.
-- *PHP, JavaScript* as **main languages**.
+- *PHP and JavaScript* as **main languages**.
 - *C++, C#, Python, Java* as **secondary languages**.
 - *Arduino* as **low-level hardware programming**.
 - *VMs, Docker and Kubernetes* as **application and service hosts**.
