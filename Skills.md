@@ -53,7 +53,7 @@
 
 - *Scrum* as **Lead Developer**. (4 years).
 - *Kanban* as **Product Owner**. (2 years).
-- *Agile* as **Startup CTO**. (5 years).
+- *Agile* as **Startup CTO**. (2 years).
 - *Lean* as **Programmer**. (11 years).
 - *Realistic* as **Person**. (26 years).
 
