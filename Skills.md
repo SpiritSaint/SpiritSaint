@@ -1,3 +1,7 @@
+> If you're here it's because you're trying to learn more about me. 
+> 
+> Don't worry, this page is free of user-tracking. 👍
+
 # Technologies
 
 - *MySQL, Microsoft SQL Server and SQLite* as **DBMS**.
@@ -68,3 +72,7 @@
 - *Dive intto design patterns* of Alexander Shvets.
 - *User Story Mapping - Discover the whole story, build the right product.* of Jeff Patton with Peter Economy.
 - **At least but not less important:** *Leave of grass* of Walt Withman.
+
+> Page views: 1. 
+> 
+> (It's you!)
