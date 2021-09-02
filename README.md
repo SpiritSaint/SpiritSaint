@@ -14,6 +14,4 @@ I'm interesting in Linux, Docker and everything related to IT stacks.
 
 Dogs and birds are my best friends.
 
-I'm not a crazy, just a multidimensional master. I'm on the past and on the future.
-
 📬 Send me a message to [iantorres@outlook.com](mailto:iantorres@outlook.com).
